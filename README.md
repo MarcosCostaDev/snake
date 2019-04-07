@@ -1,0 +1,1 @@
+to play this game [click here](https://marcoscostadev.github.io/snake/)
